@@ -1,5 +1,5 @@
-.metadata
-.recommenders
-MiniJavaEngine/.settings
-MiniJavaEngine/.classpath
-MiniJavaEngine/.project
+.metadata/
+.recommenders/
+MiniJavaEngine/.settings/
+MiniJavaEngine/.classpath/
+MiniJavaEngine/.project/
